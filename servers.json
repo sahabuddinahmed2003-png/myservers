@@ -11,20 +11,18 @@
         "url": "samara.blackrussia.online",
         "ip": "51.75.232.66",
         "port": "1229"
-
     },
     {
         "online": "20",
         "maxonline": "1000",
         "color": "FFFFFF",
         "x2": "true",
-        "key": "1424",
-        "name": "Sureeni",
+        "key": "1425",
+        "name": "Sureen_Test",
         "firstname": "TEST SERVER",
         "secondname": "",
         "url": "volgograd.blackrussia.online",
         "ip": "188.127.241.74",
         "port": "3455"
-
     }
 ]
