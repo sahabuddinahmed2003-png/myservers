@@ -24,5 +24,18 @@
         "url": "endless.blackrussia.online",
         "ip": "188.127.241.74",
         "port": "3455"
+    },
+    {
+        "online": "20",
+        "maxonline": "1000",
+        "color": "00CFFF",
+        "x2": "true",
+        "key": "1426",
+        "name": "Sureen_Centnodes",
+        "firstname": "MAIN SERVER 2",
+        "secondname": "",
+        "url": "endlessrp.blackrussia.online",
+        "ip": "89.163.213.148",
+        "port": "40047"
     }
 ]
