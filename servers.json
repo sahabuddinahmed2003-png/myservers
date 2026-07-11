@@ -8,7 +8,7 @@
         "name": "Sureen_Centnodes",
         "firstname": "ENDLESS MOBILE",
         "secondname": "",
-        "url": "samara.blackrussia.online",
+        "url": "volgograd.blackrussia.online",
         "ip": "5.199.138.96",
         "port": "2308"
     },
@@ -18,7 +18,7 @@
         "color": "00CFFF",
         "x2": "true",
         "key": "1425",
-        "name": "Sureen_Centnodes",
+        "name": "Sureen_Server",
         "firstname": "TEST SERVER 1",
         "secondname": "",
         "url": "samara.blackrussia.online",
@@ -28,7 +28,7 @@
     {
         "online": "1",
         "maxonline": "1000",
-        "color": "FF0000",
+        "color": "FF00FF",
         "x2": "true",
         "key": "1426",
         "name": "Sureen",
