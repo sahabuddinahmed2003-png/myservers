@@ -12,5 +12,19 @@
         "ip": "5.199.138.96",
         "port": "2308"
 
+    },
+    {
+        "online": "20",
+        "maxonline": "1000",
+        "color": "FF00CD",
+        "x2": "true",
+        "key": "1425",
+        "name": "Sureen",
+        "firstname": "TEST SERVER",
+        "secondname": "",
+        "url": "samara.blackrussia.online",
+        "ip": "ger-game-02.centnodes.net",
+        "port": "40047"
+
     }
 ]
