@@ -9,7 +9,7 @@
         "firstname": "MAIN SERVER",
         "secondname": "",
         "url": "samara.blackrussia.online",
-        "ip": "5.199.138.96",
+        "ip": "ger-game-db-01.centnodes.net",
         "port": "2308"
 
     },
@@ -23,8 +23,8 @@
         "firstname": "TEST SERVER",
         "secondname": "",
         "url": "samara.blackrussia.online",
-        "ip": "ger-game-02.centnodes.net",
-        "port": "40047"
+        "ip": "ams-game-01.centnodes.net",
+        "port": "40028"
 
     }
 ]
